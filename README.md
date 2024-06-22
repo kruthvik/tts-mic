@@ -9,11 +9,13 @@ src folder contains python files and a requirements.txt if you don't want to use
 voice: matthew
 press: altright
 hotkey: ctrl+space
+autocorrect: false
 ```
 - Choose avaliable voices from [https://lazypy.ro/tts/?voice=Russell&service=StreamElements&text=asdf&lang=English&g=A](url) and type the name into voice.
 - Check [https://wingware.com/doc/custom/key-names](url) for additional info on the key names.
 - Choose a key (**THIS WILL BE PRESSED FOR THE SOUNDUX SOUNDBOARD TO WORK**) for press.
 - Choose a hotkey which will open up the messagebox to enter text.
+- Change autocorrect to true if you want your message to be autocorrected before enter
 
 
 
