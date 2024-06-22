@@ -1,6 +1,0 @@
-autocorrect==2.6.1
-keyboard==0.13.5
-PyAutoGUI==0.9.54
-PyYAML==6.0.1
-PyYAML==6.0.1
-Requests==2.32.3
