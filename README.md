@@ -20,6 +20,7 @@ autocorrect: false
 
 
 # INSTRUCTIONS FOR SETUP (.exe)
+**EXE COMING SOON**
 1. Download Soundux from the link above
 2. Download the .exe file after extracting the base folder.
 3. Run the file and allow it to create a config.yaml file.
