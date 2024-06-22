@@ -1,0 +1,6 @@
+# check README.md for info on config
+voice: matthew
+press: altright
+hotkey: ctrl+space
+autocorrect: false
+path: main.wav
