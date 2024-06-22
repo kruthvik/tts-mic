@@ -17,7 +17,7 @@ hotkey: ctrl+space
 
 
 
-**INSTRUCTIONS FOR SETUP (.exe)**
+# INSTRUCTIONS FOR SETUP (.exe)
 1. Download Soundux from the link above
 2. Download the .exe file after extracting the base folder.
 3. Run the file and allow it to create a config.yaml file.
@@ -29,7 +29,7 @@ hotkey: ctrl+space
 
 
 
-**INSTRUCTIONS FOR SETUP (.py)**
+# INSTRUCTIONS FOR SETUP (.py)
 1. Extract folder
 2. Enter pip install -r requirements.txt
 3. Run py main.py
