@@ -17,19 +17,15 @@ autocorrect: false
 - Choose a hotkey which will open up the messagebox to enter text.
 - Change autocorrect to true if you want your message to be autocorrected before enter
 
+1. DOWNLOAD SOUNDUX FROM THE LINK ABOVE
+2. SET THE FOLDER OF THE DOWNLOAD AS A SOUNDUX TAB
+3. RUN THE PROGRAM AND WAIT FOR IT TO CREATE A MAIN.WAV
+4. REFRESH AND SET A KEYBIND WHICH YOU WANT TO PRESS FOR THE SOUND TO BE PLAYED
+5. CHANGE THE config.yaml FILE WITH THE KEYBIND YOU CHOSE
 
 
 # INSTRUCTIONS FOR SETUP (.exe)
 **EXE COMING SOON**
-1. Download Soundux from the link above
-2. Download the .exe file after extracting the base folder.
-3. Run the file and allow it to create a config.yaml file.
-4. Change config.yaml with what you want according to its instructions. (backup always avaliable here)
-5. Set the directory of the project as a Soundux tab and create a hotkey for it
-6. Put the hotkey in the config.yaml file
-
-
-
 
 
 # INSTRUCTIONS FOR SETUP (.py)
