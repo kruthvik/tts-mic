@@ -5,7 +5,6 @@ A simple app that allows you to use text-to-speech while using your microphone (
 src folder contains python files and a requirements.txt if you don't want to use the .exe file
 
 # SETUP FOR config.yaml
-** base file **
 ```
 voice: matthew
 press: altright
