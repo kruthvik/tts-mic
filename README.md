@@ -25,6 +25,10 @@ hotkey: ctrl+space
 5. Set the directory of the project as a Soundux tab and create a hotkey for it
 6. Put the hotkey in the config.yaml file
 
+
+
+
+
 **INSTRUCTIONS FOR SETUP (.py)**
 1. Extract folder
 2. Enter pip install -r requirements.txt
